@@ -1,0 +1,668 @@
+
+
+.pr{
+   width: 16%;
+   height:16%;
+   margin-top: 2px;
+   margin-bottom: 40px;
+   border-radius: 50%;
+   background-size: cover;
+   transition: 0.4s;
+  
+}
+
+.Sidebarimg{
+    width:140px;
+    height:140px;
+    margin-top: 34px;
+    margin-left:90px;
+    border-radius: 50%;
+    transition: 0.4s;
+    
+   
+ }
+ .Navigation{
+    padding:60px;
+    transition: 0.4s;
+    
+ }
+ .menuname{
+    width:140px;
+    height:140px;
+    transition: 0.4s;
+ }
+
+.wel{
+    color: white;
+    font-size: 30px;
+    padding:8% 0px 0px 46%;
+    transition: 0.4s;
+}
+
+.imsoftware{
+    color: white;
+    font-size: 30px;
+    padding:6% 0px 0px 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition: 0.4s;
+    
+}
+.intro{
+    color: white;
+    font-size: 20px;
+    padding:11% 0px 0px 45%;
+    /* margin-bottom: 2%; */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.4s;
+}
+.main{
+    width:100%;
+    height:100%;
+    padding:0px 0px 0px 0px ;
+    background-image: url("images//backgroundimage_11zon.jpeg");
+    float:right;
+    transition: 0.4s;
+    z-index: 1;
+   overflow-x: hidden;
+    position:fixed;
+    margin-top: 0px;
+
+  
+
+}
+body{
+   margin: 0%;
+   padding: 0px 0px 0px 0px ;
+   transition:0.4s;
+  
+}
+
+.hiremebt{
+  
+  padding: 14px 15px ;
+  font-size: 10px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  transition: 0.4s;
+
+}
+.butn{
+    
+    padding:100px 0px 0px 48% ;
+    transition: 0.4s;
+}
+.menu1{
+    height:680px;
+    width:0px;
+    float: left;
+    background-color: black;
+    color:white;
+    font-size: large;
+    margin: 0%;
+    transition: 0.4s;
+    z-index: 1;
+    overflow-x: hidden;
+    position: fixed;
+    display: block;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    top:0;
+    left:0;
+    
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 22px;
+}
+.Navigation{
+    position:sticky;
+    display: inline-block;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding:50px 0px 0px 85px;
+    transition: 0.4s;
+}
+
+.About{
+    background-color: rgb(16, 33, 94);
+    height:577px;
+    width:0px;
+    background-size: cover;
+    padding:0;
+    margin:0;
+    transition: 0.4s;
+
+}
+.Abimage{
+    float:left;
+    height:230px;
+    width:290px;
+    z-index: 0;
+    transition: 0.4s;
+   
+    
+}
+
+.Resume{
+    width:100%;
+    height:0px;
+    /* display:none; */
+    margin: 0px;
+    background-color:rgb(24, 27, 24);
+    position:absolute;
+    transition: 0.4s;
+    opacity: 0;
+    
+}
+.Heading{
+    margin: 0%;
+    padding:0%
+    
+}
+#cut{
+    margin-top: 0px;
+}
+h1,h2,p ,div{ margin:0px; }
+
+.inside_block{
+    background-color: white;
+    height: 600px;
+    width: 97%;
+    float: center;
+    margin: 14px 6px 4px 20px;
+    transition: 0.4s;
+    
+    
+}
+.inside_block2{
+   
+    background-color: white;
+    width:96%;
+    height: 470px;
+    display:inline-block;
+    margin: 20px 20px 20px 20px;
+    z-index: 1;
+    transition: 0.4s;
+}
+.Icons{
+    width:80px;
+    height:70px;
+    padding-bottom: 20px;
+}
+
+.namei{
+    font-size: 24px;
+    padding :20px 30px 26px 29px;
+    font-weight: bold;
+}
+.namei1{
+    font-size: 22px;
+    padding :20px 30px 26px 40px;
+    color:rgb(38, 73, 202);
+}
+.para{
+    padding :20px 30px 0px 20px;
+    display:inline-block;
+    font-size: 16px;
+    position: absolute;
+}
+.para1{
+    padding :20px 30px 20px 20px;
+    display:inline-block;
+    font-size: 16px;
+    position: absolute;
+}
+
+
+
+.line{
+    width:270px;
+    height: 0.05px;
+    margin-left: 140px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    position:relative;
+    display: block;
+    right: 0px;
+    background-color: black;
+}
+.linest{
+    width:270px;
+    height: 0.05px;
+    margin-left: 100px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    position:relative;
+    display: block;
+    right: 0px;
+    background-color: black;
+}
+.lineS{
+    width:270px;
+    height: 0.05px;
+    margin-left: 80px;
+    margin-top: 0px;
+    position:relative;
+    display: block;
+    right: 0px;
+    background-color: black;
+}
+.Icons1{
+    width:50px;
+    height:40px;
+}
+.namei2{
+    
+    font-size: 22px;
+    padding-left:20px;
+    margin-top: 0px;
+    margin-bottom:0px;
+    position: absolute;
+    color:rgb(38, 73, 202);
+    display: inline-block;
+   
+}
+.hr-lines1{
+    width:2px;
+    height: 30px;
+    margin-left:10px; 
+    text-align: center;
+    margin-top:0px;
+    margin-bottom: 0px;
+    position:relative;
+    display: inline-block;
+    right: 0px;
+    background-color: rgba(143, 138, 138, 0.356);
+}
+.year{
+    font-size: 17px;
+    text-align: center;
+    margin-left:10px;
+    margin-top: 0px;
+    position:relative;
+    display: inline-block;
+    color: rgba(56, 52, 52, 0.511);
+    
+    
+
+}
+.test{
+    color: rgb(8, 17, 48);
+}
+.year2{
+    font-size: 17px;
+    text-align: center;
+    margin-left:10px;
+    margin-top: 0px;
+    position:relative;
+    display: inline-block;
+    color: rgba(199, 182, 182, 0.511);
+    
+    
+
+}
+.work2{
+    margin: 10px 0px 0px 70px;
+    padding: 0px;
+}
+.hr-lines2{
+    width:0px;
+    height:0px;
+    background-color: rgba(143, 138, 138, 0.356);
+    
+}
+.block2s{
+    margin-top: 90px;
+    margin-left: 0px;
+    position: fixed;
+    padding: 0px;
+}
+.Inlineblock{
+    margin:0px;
+}
+.line2{
+    margin-right:800px; 
+    margin-bottom: 200px;
+    position: absolute;
+    display:block;
+    left: 580px;
+    top:300px;
+
+}
+.Skills{
+    width:270px;
+    height:0.01px;
+    font-size: 20px;
+    padding: 0px;
+    position: absolute;
+    display:block;
+    left: 600px;
+    top:285px;
+    color:black;
+    bottom:2px;
+}
+
+.Image_set{
+    position: absolute;
+    left:610px;
+    top:321px;
+    display:inline-block;
+}
+
+.Icons2{
+    width:90px;
+    height:70px;
+    margin-right: 17px;
+}
+.Li_details{
+    width: 430px;
+    display: inline-block;
+    position: absolute;
+    left:48px;
+    right:140px;
+}
+.Detail{
+    margin:0px;
+}
+.Menuresume1{
+    display: none;
+    position: absolute;
+    left:270px;
+}
+.demo2{
+    width:700px;
+}
+
+.block3{
+    display: none;
+    position: absolute;
+    left:70px;
+    top:240px;
+    margin-bottom:30px;
+}
+.lineS2{
+    display: none;
+    position: absolute;
+    left:70px;
+
+}
+.name2{
+    
+    font-size: 22px;
+    padding-left:20px;
+    margin-top: 0px;
+    margin-bottom:0px;
+    position: absolute;
+    color:rgb(38, 73, 202);
+    display: inline-block;
+   
+}
+.Skills2{
+    position: relative;
+    top:330px;
+    font-size: 20px;
+    left:40px;
+}
+.Image_set1{
+    position: relative;
+    left:120px;
+    top:360px;
+    bottom:20px
+
+}
+
+/*startr here */
+
+.test2{
+    width:1000%;
+    height : 10%;
+     overflow-x: hidden;
+    overflow-y: auto; 
+    overflow: hidden;
+    background-size:cover ;
+    color: beige;
+}
+.Abimagetest{
+    width:4%;
+    height:4%;
+    padding-top: 50px; 
+    padding-left:10px;
+    color: beige;
+
+}
+
+.test1234{
+    width:100%;
+    height:100%;
+    display: none;
+    background-size: cover;
+    overflow: hidden;
+    color: beige;
+}
+.Iconstest{
+    
+    width:18px;
+    height:40px;
+    padding: 20px 0px 10px 0px; 
+}
+
+.Introtest{
+   
+    padding: 10px 0px 0px 0px;
+    color: beige;
+  }
+
+  .name2test{
+    width: 100%;
+    font-size: 22px;
+    padding:20px 0px 20px 20px;
+    margin-top: 0px;
+    margin-left:100px;
+    position: absolute;
+    color:rgb(38, 73, 202);
+    display: inline-block;
+   
+}
+.demo2p{
+    
+    padding:20px 10px 0px 0px;
+    float:left;
+    overflow-x: hidden;
+    color: beige;
+} 
+.blocktest{
+    padding:120px 20px 10px 0px;
+    margin-left: 10%;
+    color: beige;
+
+} 
+
+.Iconstest2{
+    width:13%;
+    padding:0px 0px 0px 0px;
+    position: relative;
+    color: beige;
+}
+
+.namei2test{
+    padding:0px 0px 0px 0px ;
+    position: relative;
+    color: beige;
+}
+.Icons2test{
+    width:40px;
+    height:30px;
+    margin-right: 17px;
+    color: beige;
+}
+
+.Skills2test{
+    position: relative;
+    /* //top:330px; */
+    font-size:20px;
+    left:40px;
+    padding-bottom: 20px;
+    padding-top:20px;
+    color: beige;
+
+}
+.lineS2t{
+    
+    position: absolute;
+    left:70px;
+
+}
+.fontc{
+    font-size: 10px;
+    float: left;
+    right:2px;
+    padding: 0px 0px 0px 0px;
+
+}
+.Skillico{
+    display: none;
+}
+.Image_set1test{
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+/*start   */
+/* 
+
+
+
+.test2{
+    padding-left: 0px;
+    width:100%;
+    height:100%;
+}
+.Abimagetest{
+    width:15%;
+    height:15%;
+    padding-top: 50px; 
+    
+
+}
+
+
+
+.blocktest{
+
+    padding:20px 20px 20px 20px;
+    margin: 100px 20px 20px 20px;
+    width:40%;
+    height: auto;
+    float: left;
+}
+
+/* responsie website codes start */
+
+@media only screen and (min-width:1px) and  (max-width: 500px) {
+    .Resume .Menuresume1 .menu1{
+        display: none;
+      }
+    .Menuresume1 {
+        display: none;
+      }
+    .menu1{
+        display: none;
+      }
+      body{
+        width:100%;
+        height: 100%;
+        position: fixed;
+        
+      }
+
+    .main{
+       
+
+        width:100%;
+        background-image: url("images//backgroundimage_11zon.jpeg");
+        float:right;
+        transition: 0.4s;
+        z-index: 1;
+        overflow-x: hidden;
+        position:fixed;
+        background-size: cover;
+        
+        }
+  
+    .pr{
+        
+        width:32%;
+        height:32%;
+        margin-bottom: 40px;
+        border-radius: 50%;
+        background-size: cover;
+        transition: 0.4s;
+        padding:6px 6px 6px 6px ;
+        margin-top: 30%;
+        margin-left: 36%;
+        margin-right: 70%;
+        margin-bottom: 20%;
+    
+       
+     }
+  
+     .wel{
+        color: white;
+        font-size: 30px;
+        padding:8% 0px 0px 30%;
+        transition: 0.4s;
+    }
+
+    .imsoftware{
+        color: white;
+        font-size: 20px;
+        padding:6% 0px 0px 20%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        transition: 0.4s;
+        
+    }
+    .intro{
+        color: white;
+        font-size: 15px;
+        padding:11% 0px 0px 36%;
+        margin-bottom: 2%;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        transition: 0.4s;
+    }
+    .hiremebt{
+  
+       
+        margin-left:40%;
+        float: left;
+        font-size: 13px;
+       
+      }
+      
+      .menu1{
+        display: none;
+        height:100%;
+        width:0px;
+        float: left;
+        background-color: black;
+        color:white;
+        font-size: large;
+        margin: 0%;
+        transition: 0.4s;
+        z-index: 1;
+        overflow-x: hidden;
+        position: fixed;
+        display: block;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        top:0;
+        left:0;
+         
+    }
+  }
