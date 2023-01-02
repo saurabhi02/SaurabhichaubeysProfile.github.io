@@ -147,7 +147,7 @@ function home(){
     
 
 }
-let p1="Hello There!!!  Thanks for visiting my Profile ,I am a Software Engineer  working in this Industry from 1 year ,I am Passionate about coding and i love learning new technologies  ";
+let p1="Hello There!!!  Thanks for visiting my Profile , I am a Software Engineer  working in this Industry from 1 year ,I am Passionate about coding and I love learning new technologies  ";
 
 let speed=50;
 let i=0;
